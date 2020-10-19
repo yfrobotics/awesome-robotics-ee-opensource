@@ -1,4 +1,4 @@
-# 开源项目列表
+# 机器人/电子/机器学习开源项目列表
 
 收录国内优秀的机器人、电子、机器学习相关开源项目。  
 本页面可在[GitHub](https://github.com/yfrobotics/opensource-projects-robotics-ai)上提交修改，如果你希望你的项目加入这个列表，请[commit new issue](https://github.com/yfrobotics/opensource-projects-robotics-ai/issues)。
@@ -12,6 +12,7 @@
 | RoboWiki (机器人维基百科) | 云飞机器人实验室 | [GitHub](https://github.com/yfrobotics/robowiki)             | （开放公共编辑）机器人领域的维基百科。                       |
 | yfsim - 机器人二维仿真    | 云飞机器人实验室 | [GitHub](https://github.com/yfrobotics/yfsim)                | （正在架构设计）机器人2D仿真 -- 用于多智能体研究及机器人编程学习。 |
 | 树莓派目标识别与追踪      | 云飞机器人实验室 | [GitHub](https://github.com/automaticdai/rpi-object-detection) | 基于树莓派 + Web Camera的视觉追踪项目。                      |
+| 解魔方机器人              | 动力老男孩       | n/a                                                          | 基于乐高的解魔方机器人。[项目制作过程](http://www.diy-robots.com/?page_id=46) |
 
 ## 2. 智能家居项目
 
