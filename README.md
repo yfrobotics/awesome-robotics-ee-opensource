@@ -1,4 +1,4 @@
-# 机器人/电子/机器学习开源项目列表
+# 机器人/电子相关开源与DIY项目列表
 
 收录国内优秀的机器人、电子、机器学习相关开源项目。  
 本页面可在[GitHub](https://github.com/yfrobotics/opensource-projects-robotics-ai)上提交修改，如果你希望你的项目加入这个列表，请[commit new issue](https://github.com/yfrobotics/opensource-projects-robotics-ai/issues)。
