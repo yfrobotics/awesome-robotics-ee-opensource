@@ -28,6 +28,8 @@
 | [L-ink]电子墨水屏NFC智能卡片 | 稚晖君(peng-zhihui) | [GitHub](https://github.com/peng-zhihui/L-ink_Card) | 为了解决个人使用IC卡时遇到的一些痛点设计的一个迷你NFC智能卡片，基于STM32L051和ST25DV。 |
 | 树莓派延时摄影                | 云飞机器人实验室            | [GitHub](https://github.com/automaticdai/rpi-timelapse)      | 基于树莓派 + Web Camera的延时摄影项目。                      |
 | 树莓派mini-DSLR               | 云飞机器人实验室            | [GitHub](https://github.com/automaticdai/rpi-mini-dslr-camera) | 基于树莓派High Quality Camera的mini相机项目。                |
+| 自制低成本3D激光扫描测距仪（已完结） | 陈世凯 (CSK) | [Google Code](https://code.google.com/archive/p/rp-3d-scanner/) | [自制低成本3D激光扫描测距仪(3D激光雷达)，第一部分](http://www.csksoft.net/blog/post/lowcost_3d_laser_ranger_1.html) / [自制低成本3D激光扫描测距仪(3D激光雷达)，第二部分](http://www.csksoft.net/blog/post/lowcost_3d_laser_ranger_2.html) |
+| 低成本激光投射虚拟键盘的设计制作（已完结） | 陈世凯 (CSK) | n/a | [低成本激光投射虚拟键盘的设计制作-上(原理和硬件)](http://www.csksoft.net/blog/post/lowcost.laserkbd_part1.html) / [低成本激光投射虚拟键盘的设计制作-下(算法与实现)](http://www.csksoft.net/blog/post/lowcost.laserkbd_part2.html) |
 | 妖姬 – 互动电子植物（已完结） | 云飞机器人实验室            | [GitHub](https://github.com/automaticdai/arduino-yaoji)      | 妖姬是云飞实验室在极客大赛中的48小时极限创作作品。妖姬是一款概念式的互动电子植物，采用了Arduino + Android的方案，融合了信息与物理的概念式作品。[妖姬 \| 妖姬项目总览](https://www.yfworld.com/?p=4287) |
 
 
@@ -37,4 +39,4 @@
 | --------------------------------- | -------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
 | DeepVision                        | 稚晖君(peng-zhihui)   | [GitHub](https://github.com/peng-zhihui/DeepVision) | 本项目实现了移动端CV算法快速验证框架，旨在提供一套通用的CV算法验证框架。框架经过本人一年多的开发和维护，目前已经完成绝大部分API的开发，实现包括实时视频流模块、单帧图像处理模块、3D场景模块、云端推理模块等众多功能。 |
 | MxNet                             | 李沐 (Mu Li)          | [GitHub](https://github.com/apache/incubator-mxnet) | 深度学习编程框架，C++/Python/R。                             |
-| Caffe2（已于2018年与Pytorch合并） | 贾扬清 (Yangqing Jia) | [GitHub](https://github.com/facebookarchive/caffe2) | 深度学习编程框架，C++/Python/Matlab。                        |
+| Caffe2（已与Pytorch合并） | 贾扬清 (Yangqing Jia) | [GitHub](https://github.com/facebookarchive/caffe2) | 深度学习编程框架，C++/Python/Matlab。                        |
