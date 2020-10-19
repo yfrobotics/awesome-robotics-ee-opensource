@@ -25,8 +25,9 @@
 | 项目名称                      | 发起人                      | 项目地址                                                     | 项目介绍                                                     |
 | ---------------------------- | -------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
 | Gameduino 2/3                 | ExCamera / 云飞机器人实验室 | [Gameduino 2 (KS)](https://www.kickstarter.com/projects/2084212109/gameduino-2-this-time-its-personal?ref=discovery&term=Gameduino) \| [Gameduino 3 (KS)](https://www.kickstarter.com/projects/2084212109/gameduino-3?ref=discovery&term=Gameduino) | Gameduino是基于Arduino的图形交互和游戏扩展版。它是目前Arduino平台上性能最好的图形协处理器。它由ExCamera在Kickstarter上成功众筹。云飞实验室参与了工具链开发、中文手册 [(点击这里下载)](http://excamera.com/files/gd2book_cn.pdf) 以及中文推广。[Gameduino \| Gameduino 2: Arduino图形开发板](https://www.yfworld.com/?p=4280) |
-| 树莓派mini-DSLR               | 云飞机器人实验室            | [GitHub](https://github.com/automaticdai/rpi-mini-dslr-camera) | 基于树莓派High Quality Camera的mini相机项目。                |
+| [L-ink]电子墨水屏NFC智能卡片 | 稚晖君(peng-zhihui) | [GitHub](https://github.com/peng-zhihui/L-ink_Card) | 为了解决个人使用IC卡时遇到的一些痛点设计的一个迷你NFC智能卡片，基于STM32L051和ST25DV。 |
 | 树莓派延时摄影                | 云飞机器人实验室            | [GitHub](https://github.com/automaticdai/rpi-timelapse)      | 基于树莓派 + Web Camera的延时摄影项目。                      |
+| 树莓派mini-DSLR               | 云飞机器人实验室            | [GitHub](https://github.com/automaticdai/rpi-mini-dslr-camera) | 基于树莓派High Quality Camera的mini相机项目。                |
 | 妖姬 – 互动电子植物（已完结） | 云飞机器人实验室            | [GitHub](https://github.com/automaticdai/arduino-yaoji)      | 妖姬是云飞实验室在极客大赛中的48小时极限创作作品。妖姬是一款概念式的互动电子植物，采用了Arduino + Android的方案，融合了信息与物理的概念式作品。[妖姬 \| 妖姬项目总览](https://www.yfworld.com/?p=4287) |
 
 
