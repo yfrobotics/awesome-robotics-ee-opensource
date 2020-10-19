@@ -11,7 +11,7 @@
 | RoboWiki (机器人维基百科)    | 云飞机器人实验室 | [GitHub](https://github.com/yfrobotics/robowiki)             | 机器人领域的维基百科。                                       |                                                              |
 | yfsim - 机器人二维仿真       | 云飞机器人实验室 | [GitHub](https://github.com/yfrobotics/yfsim)                | 机器人2D仿真 -- 用于多智能体研究及机器人编程学习。           | 项目正在架构设计                                             |
 
-## Electronics电子源项目
+## Electronics电子项目
 
 | 项目名称             | 发起人           | 项目地址                                                     | 项目介绍                                                     | 相关信息与更新                                               |
 | -------------------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -23,7 +23,7 @@
 | 妖姬 – 互动电子植物  | 云飞机器人实验室 | [GitHub](https://github.com/automaticdai/arduino-yaoji)      | 妖姬是云飞实验室在极客大赛中的48小时极限创作作品（已完结）。妖姬是一款概念式的互动电子植物，采用了Arduino + Android的方案，融合了信息与物理的概念式作品。 | [妖姬 \| 妖姬项目总览](https://www.yfworld.com/?p=4287)      |
 | Gameduino 2/3        | ExCamera         | [Gameduino 2](https://www.kickstarter.com/projects/2084212109/gameduino-2-this-time-its-personal?ref=discovery&term=Gameduino) \| [Gameduino 3](https://www.kickstarter.com/projects/2084212109/gameduino-3?ref=discovery&term=Gameduino) | Gameduino是基于Arduino的图形交互和游戏扩展版。它是目前Arduino平台上性能最好的图形协处理器。它由ExCamera在Kickstarter上成功众筹。云飞实验室参与了GD工具链的开发、中文手册 [(点击这里下载)](http://excamera.com/files/gd2book_cn.pdf)以及推广。 | [Gameduino \| Gameduino 2: Arduino图形开发板](https://www.yfworld.com/?p=4280) |
 
-## Deep Learning深度学习源项目
+## Deep Learning深度学习项目
 
 | 项目名称       | 发起人        | 项目地址                                               | 项目介绍                                   | 相关信息与更新             |
 | -------------- | ------------- | ------------------------------------------------------ | ------------------------------------------ | -------------------------- |
