@@ -7,13 +7,13 @@
 
 ## 1. 机器人项目
 
-| 项目名称                  | 发起人              | 项目地址                                                     | 项目介绍                                                 |
-| ------------------------- | ------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
-| RoboWiki (机器人维基百科) | 云飞机器人实验室    | [GitHub](https://github.com/yfrobotics/robowiki)             | 机器人领域的维基百科（公共知识编辑）。                   |
-| yfsim - 机器人二维仿真    | 云飞机器人实验室    | [GitHub](https://github.com/yfrobotics/yfsim)                | 机器人2D仿真 -- 用于多智能体研究及群体机器人编程与研究。 |
-| Nano自平衡机器人          | 稚晖君(peng-zhihui) | [项目主页](http://pengzhihui.xyz/2015/12/09/nano/)           | 非常小巧的双轮自平衡机器人。                             |
-| 树莓派目标识别与追踪      | 云飞机器人实验室    | [GitHub](https://github.com/automaticdai/rpi-object-detection) | 基于树莓派 + Web Camera的视觉追踪项目。                  |
-| 解魔方机器人              | 动力老男孩          | [项目主页](http://www.diy-robots.com/?page_id=46)            | 基于乐高的解魔方机器人。                                 |
+| 项目名称                  | 发起人              | 项目地址                                                     | 项目介绍                                |
+| ------------------------- | ------------------- | ------------------------------------------------------------ | --------------------------------------- |
+| RoboWiki (机器人维基百科) | 云飞机器人实验室    | [GitHub](https://github.com/yfrobotics/robowiki)             | 机器人领域的维基百科（公共知识编辑）。  |
+| YF-IPS - 机器人室内定位   | 云飞机器人实验室    | [GitHub](https://github.com/yfrobotics/yfips-indoor-positioning-system) | 使用低成本传感器对机器人进行室内定位。  |
+| Nano自平衡机器人          | 稚晖君(peng-zhihui) | [项目主页](http://pengzhihui.xyz/2015/12/09/nano/)           | 非常小巧的双轮自平衡机器人。            |
+| 树莓派目标识别与追踪      | 云飞机器人实验室    | [GitHub](https://github.com/automaticdai/rpi-object-detection) | 基于树莓派 + Web Camera的视觉追踪项目。 |
+| 解魔方机器人              | 动力老男孩          | [项目主页](http://www.diy-robots.com/?page_id=46)            | 基于乐高的解魔方机器人。                |
 
 ## 2. 电子设计项目
 
@@ -33,7 +33,7 @@
 
 | 项目名称           | 发起人           | 项目地址                                                     | 项目介绍                                                     |
 | ------------------ | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| YunFei Smart Home  | 云飞机器人实验室 | [GitHub](https://github.com/yfrobotics/yf-home-iot)          | 云飞智能家居项目旨在探索新的智能家居系统解决方案。[Smart Home \| 项目文章列表](https://www.yfworld.com/?cat=38) |
+| YF Smart Home      | 云飞机器人实验室 | [GitHub](https://github.com/yfrobotics/yf-home-iot)          | 云飞智能家居项目旨在探索新的智能家居系统解决方案。[Smart Home \| 项目文章列表](https://www.yfworld.com/?cat=38) |
 | 树莓派温湿度气象站 | 云飞机器人实验室 | [GitHub](https://github.com/automaticdai/rpi-environmental-sensing) | 基于树莓派的开源温湿度气象站。                               |
 | RT-Thread          | Bernard Xiong    | [GitHub](https://github.com/RT-Thread/rt-thread)             | RT-Thread诞生于2006年，是一款以开源、中立、社区化发展起来的物联网操作系统。 |
 
