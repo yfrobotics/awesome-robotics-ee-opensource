@@ -2,7 +2,7 @@
 
 本页面收录优秀的海内外机器人、电子设计、人工智能相关的中文开源及DIY项目。
  
-本页面可在[GitHub](https://github.com/yfrobotics/opensource-projects-robotics-ee)上提交修改，如果你希望你的项目加入这个列表，请[commit new issue](https://github.com/yfrobotics/opensource-projects-robotics-ee/issues)。
+本页面可在[GitHub](https://github.com/yfrobotics/opensource-projects-robotics-ee)上提交修改，如果你希望推荐项目加入这个列表，请[commit new issue](https://github.com/yfrobotics/opensource-projects-robotics-ee/issues)。
 
 [toc]
 
@@ -41,5 +41,7 @@
 | MxNet                             | 李沐 (Mu Li)          | [GitHub](https://github.com/apache/incubator-mxnet) | 深度学习编程框架，支持C++/Python/R。                           |
 | Caffe2 | 贾扬清 (Yangqing Jia) | [GitHub](https://github.com/facebookarchive/caffe2) | 深度学习编程框架，支持C++/Python/Matlab。现已与Pytorch合并。 |
 | DeepVision                        | 稚晖君(peng-zhihui)   | [GitHub](https://github.com/peng-zhihui/DeepVision) | 本项目实现了移动端CV算法快速验证框架，旨在提供一套通用的CV算法验证框架。框架经过本人一年多的开发和维护，目前已经完成绝大部分API的开发，实现包括实时视频流模块、单帧图像处理模块、3D场景模块、云端推理模块等众多功能。 |
+
+---
 
 本项目由 [云飞机器人实验室](https://www.yfworld.com) 长期维护与更新。最后更新时间： 2021年01月17日。
