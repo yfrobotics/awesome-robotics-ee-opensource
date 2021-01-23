@@ -1,26 +1,30 @@
-# 机器人/电子设计/人工智能相关开源与DIY项目列表
+# 机器人/电子设计/人工智能开源项目列表
 
-本页面收录优秀的海内外机器人、电子设计、人工智能相关的中文开源及DIY项目。
- 
-本页面可在[GitHub](https://github.com/yfrobotics/opensource-projects-robotics-ee)上提交修改，如果你希望推荐项目加入这个列表，请[commit new issue](https://github.com/yfrobotics/opensource-projects-robotics-ee/issues)。
+本页面收录优秀的机器人、电子设计、人工智能相关的（中文）开源项目。
+
+如果你希望推荐别的项目加入该列表，可以在项目的 [GitHub](https://github.com/yfrobotics/opensource-projects-robotics-ee) 上 [commit a new issue](https://github.com/yfrobotics/opensource-projects-robotics-ee/issues)。
 
 [toc]
 
-## 1. 机器人项目
+## 1. 机器人项目 | Robots
 
-| 项目名称                  | 发起人              | 项目地址                                                     | 项目介绍                                |
+| 项目名称                  | 发起人/作者          | 项目地址                                                     | 项目介绍                                |
 | ------------------------- | ------------------- | ------------------------------------------------------------ | --------------------------------------- |
 | RoboWiki (云飞机器人中文百科) | 云飞机器人实验室    | [GitHub](https://github.com/yfrobotics/robowiki)             | 机器人领域的维基百科（公共知识编辑）。  |
+| MiniRover火星车 | 稚晖君(peng-zhihui) | [GitHub](https://github.com/peng-zhihui/MiniRover-Hardware) | 自制火星车的开源资料。 |
 | Nano自平衡机器人          | 稚晖君(peng-zhihui) | [项目主页](http://pengzhihui.xyz/2015/12/09/nano/)           | 非常小巧的双轮自平衡机器人。 |
+| X-Bot智能机械臂写字机器人 | 稚晖君(peng-zhihui) | [GitHub](https://github.com/peng-zhihui/X-Bot) | 基于CoreXY结构的机械臂。 |
+| ONE-Robot独轮机器人 | 稚晖君(peng-zhihui) | [GitHub](https://github.com/peng-zhihui/ONE-Robot) | 基于IMU和STM32的独轮自平衡机器人。 |
 | 解魔方机器人              | 动力老男孩          | [项目主页](http://www.diy-robots.com/?page_id=46)            | 基于乐高的解魔方机器人。                |
-| YF-IPS - 机器人室内定位系统 | 云飞机器人实验室    | [GitHub](https://github.com/yfrobotics/yfips-indoor-positioning-system) | 使用低成本传感器对机器人进行室内定位。  |
+| YF-IPS - 机器人室内定位系统 | 云飞机器人实验室    | [项目主页](https://www.yfworld.com/?p=6804) \| [GitHub](https://github.com/yfrobotics/yfips-indoor-positioning-system) | 使用低成本传感器对机器人进行室内定位。  |
 | 基于树莓派的目标识别与追踪   | 云飞机器人实验室    | [GitHub](https://github.com/automaticdai/rpi-object-detection) | 基于树莓派 + Web Camera的视觉追踪项目。 |
 
 
-## 2. 电子设计项目
+## 2. 电子设计项目 | EE
 
-| 项目名称                      | 发起人                      | 项目地址                                                     | 项目介绍                                                     |
+| 项目名称                      | 发起人/作者                | 项目地址                                                     | 项目介绍                                                     |
 | ---------------------------- | -------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| PocketLCD: 带充电宝功能的便携显示器 | 稚晖君(peng-zhihui) | [GitHub](https://github.com/peng-zhihui/PocketLCD) | 介绍视频：[【自制】你的下一个显示器，可能是个充电宝？？](https://www.bilibili.com/video/BV17D4y1X7AT) |
 | L-ink电子墨水屏NFC智能卡片 | 稚晖君(peng-zhihui) | [GitHub](https://github.com/peng-zhihui/L-ink_Card) | 为了解决个人使用IC卡时遇到的一些痛点设计的一个迷你NFC智能卡片，基于STM32L051和ST25DV。 |
 | 低成本激光投射虚拟键盘的设计制作 | 陈世凯 (CSK) |  | [低成本激光投射虚拟键盘的设计制作-上(原理和硬件)](http://www.csksoft.net/blog/post/lowcost.laserkbd_part1.html) / [低成本激光投射虚拟键盘的设计制作-下(算法与实现)](http://www.csksoft.net/blog/post/lowcost.laserkbd_part2.html) |
 | 自制低成本3D激光扫描测距仪 | 陈世凯 (CSK) | [Google Code](https://code.google.com/archive/p/rp-3d-scanner/) | [自制低成本3D激光扫描测距仪(3D激光雷达)，第一部分](http://www.csksoft.net/blog/post/lowcost_3d_laser_ranger_1.html) / [自制低成本3D激光扫描测距仪(3D激光雷达)，第二部分](http://www.csksoft.net/blog/post/lowcost_3d_laser_ranger_2.html) |
@@ -32,10 +36,9 @@
 | YF Smart Home      | 云飞机器人实验室 | [GitHub](https://github.com/yfrobotics/yf-home-iot)          | 云飞智能家居项目旨在探索新的智能家居系统解决方案。[Smart Home \| 智能家居系统](https://www.yfworld.com/?p=1081) |
 | 树莓派温湿度气象站 | 云飞机器人实验室 | [GitHub](https://github.com/automaticdai/rpi-environmental-sensing) | 基于树莓派的开源温湿度气象站。   |
 
+## 3. 机器学习项目 | ML
 
-## 3. 机器学习项目
-
-| 项目名称                          | 发起人                | 项目地址                                            | 项目介绍                                                     |
+| 项目名称                          | 发起人/作者          | 项目地址                                            | 项目介绍                                                     |
 | --------------------------------- | -------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
 | TVM | 陈天奇 | [GitHub](https://github.com/apache/tvm) | 深度学习编译框架。 |
 | MxNet                             | 李沐 (Mu Li)          | [GitHub](https://github.com/apache/incubator-mxnet) | 深度学习编程框架，支持C++/Python/R。                           |
@@ -44,4 +47,4 @@
 
 ---
 
-本项目由 [云飞机器人实验室](https://www.yfworld.com) 长期维护与更新。最后更新时间： 2021年01月17日。
+本项目由 [云飞机器人实验室](https://www.yfworld.com) 长期维护与更新。最后更新时间： 2021年01月23日。
