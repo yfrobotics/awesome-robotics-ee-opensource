@@ -2,7 +2,7 @@
 
 本页面收录优秀的机器人、电子设计、人工智能相关的（中文）开源项目。
 
-如果你希望推荐别的项目加入该列表，可以在项目的 [GitHub](https://github.com/yfrobotics/opensource-projects-robotics-ee) 上 [commit a new issue](https://github.com/yfrobotics/opensource-projects-robotics-ee/issues)。
+如果你希望推荐别的项目加入该列表，可以在项目的 [GitHub](https://github.com/yfrobotics/awesome-robotics-ee-opensource) 上 [commit a new issue](https://github.com/yfrobotics/awesome-robotics-ee-opensource/issues)。
 
 [toc]
 
